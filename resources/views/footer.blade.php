@@ -60,7 +60,7 @@
                                 </ul>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-6 mt-lg-0 mt-sm-5 footer-links">
-                                <h1>Faam Gallery</h1>
+                                <h1>Our Contact</h1>
                                 <ul>
                                     <li><a href="#">About us</a></li>
                                     <li><a href="#">Contact us</a></li>
@@ -101,11 +101,11 @@
                 </div>
                 <div class="me-md-auto col-lg-12 text-center mt-2 text-md-center">
                     <div class="copyright">
-                        &copy; Copyright 2023 Faam Gallery | <strong><span> All Rights Reserved | </span><span> Privacy Policy | </span></strong> Terms & Condition
+                        &copy; Copyright 2023 Zahra Panahi | <strong><span> All Rights Reserved | </span><span> Privacy Policy | </span></strong> Terms & Condition
                     </div>
                     <div class="credits">
 
-                        <a href="https://faamgallery.com/"></a>
+                        <a href="https://sohrabssaless.com/"></a>
                     </div>
                 </div>
 </footer><!-- End Footer -->
