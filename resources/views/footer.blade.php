@@ -21,9 +21,6 @@
                                 <input type="submit" class="btn btn-default   btn-block" value="JOIN">
                             </div>
                         </div>
-
-                        <p class=" mt-sm-3 mt-lg-0">By giving us your email address you agree to receive (thrilling) email updates, including special offers, new pieces and arty news. If you
-                            want<br> you can unsubscribe at any time.</p>
                 </form>
                 <div class="footer-top">
                     <div class="container-fluid">
@@ -31,10 +28,10 @@
                             <div class="col-lg-3 col-md-6 col-sm-6  footer-links">
                                 <h1>Services</h1>
                                 <ul>
-                                    <li><a href="#">In-Store Framing</a></li>
-                                    <li> <a href="#">Online Framing</a></li>
+                                    <li><a href="#">Books</a></li>
+                                    <li> <a href="#">Online Books</a></li>
                                     <li></i> <a href="#">Printing</a></li>
-                                    <li><a href="#">Memorabilia</a></li>
+                                    <li><a href="#">Movies</a></li>
                                     <li></i> <a href="#">Book Consultation</a></li>
                                     <li></i> <a href="#">For Artist</a></li>
                                     <li></i> <a href="#">For Business</a></li>
@@ -69,20 +66,6 @@
 
                                 </ul>
                             </div>
-                            <!--                <div class="col-lg-2 col-md-6 footer-contact">-->
-                            <!--                  <h3>Visit us</h3>-->
-                            <!--                  <p>-->
-                            <!--                    131 Percy Rd<br>-->
-                            <!--                    Richmond<br>-->
-                            <!--                    London<br>-->
-                            <!--                    United Kingdom<br>-->
-                            <!--                    TW2 6HT <br>-->
-
-                            <!--                    <p class="fw-bolder mt-4"> 020 3632 1468</p>-->
-
-                            <!--                  </p>-->
-                            <!--                </div>-->
-
 
                         </div>
                     </div>
